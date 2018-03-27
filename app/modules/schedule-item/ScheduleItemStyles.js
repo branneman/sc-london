@@ -6,10 +6,13 @@ export default StyleSheet.create({
     width: 48,
     marginRight: 16
   },
-  iconPrimary: {
-    color: '#fe4918'
+  icon: {
+    width: 24,
+    height: 24
   },
-  iconSecondary: {
-    color: '#bbb'
+  chevron: {
+    marginTop: 0,
+    width: 32,
+    height: 32
   }
 })
