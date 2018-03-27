@@ -2,5 +2,7 @@
   "expo": {
     "name": "SC London",
     "sdkVersion": "25.0.0"
-  }
+  },
+  "name": "sclondon",
+  "displayName": "SC London"
 }
